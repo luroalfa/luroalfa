@@ -3,7 +3,9 @@
 
 **luroalfa / luroalfa is a ✨ special ✨ repository since I have been working on many personal projects.
 
-![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='100px'}
+<iframe width="600" height = "420"
+src="https://www.youtube.com/embed/qKf2EwInKbA">
+</iframe>
 
 Here are some ideas to get you started:
 
