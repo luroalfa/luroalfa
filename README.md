@@ -3,9 +3,7 @@
 
 **luroalfa / luroalfa is a ✨ special ✨ repository since I have been working on many personal projects.
 
-<iframe width="600" height = "420"
-src="https://www.youtube.com/embed/qKf2EwInKbA">
-</iframe>
+![](https://cdn.pixabay.com/photo/2014/12/08/16/44/keyboard-561124_1280.jpg){width='50px'}
 
 Here are some ideas to get you started:
 
