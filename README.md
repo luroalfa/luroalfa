@@ -5,7 +5,7 @@
 
 ![](https://cdn.pixabay.com/photo/2014/12/08/16/44/keyboard-561124_1280.jpg)
 
-####Here are some ideas to get you started:
+#### Here are some ideas to get you started:
 
 - 🔭 I am currently working on React_js
 - 🌱 I am currently learning React-Native
