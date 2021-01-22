@@ -1,7 +1,9 @@
 ### Hi, my name is:👋
 # Luis Alfonso Rodriguez Fallas
 
-**luroalfa/luroalfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**luroalfa / luroalfa is a ✨ special ✨ repository since I have been working on many personal projects.
+
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='100px'}
 
 Here are some ideas to get you started:
 
