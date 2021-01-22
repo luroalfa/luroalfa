@@ -1,4 +1,4 @@
-### Hi, my name is:👋
+### Hi,👋 my name is:
 # Luis Alfonso Rodriguez Fallas
 
 **luroalfa / luroalfa is a ✨ special ✨ repository since I have been working on many personal projects.
