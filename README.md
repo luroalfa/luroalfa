@@ -7,9 +7,9 @@
 
 #### Here are some ideas to get you started:
 
-- 🔭 I am currently working on React_js
-- 🌱 I am currently learning React-Native
+- 🔭 I am currently working on React_js.
+- 🌱 I am currently learning React-Native.
 - 💬 Ask me about React, JavaScript, CSS, Html.
-- 📫 How to contact me: rodriguezfallasluis@gmail.com
+- 📫 How to contact me: rodriguezfallasluis@gmail.com.
 - 😄 Pronouns: Lucho.
-- ⚡ Fun fact: I like music and sports and I love programming.
+- ⚡ Fun fact: I like music and sport.
