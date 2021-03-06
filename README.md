@@ -1,7 +1,7 @@
 ### Hi,👋 my name is:
 # Luis Alfonso Rodriguez Fallas
 
-**luroalfa / luroalfa is a ✨ special ✨ repository since I have been working on many personal projects.
+Luroalfa is a ✨ special ✨ repository in which I have been working with effort and dedication to have a personal project.
 
 ![](https://cdn.pixabay.com/photo/2014/12/08/16/44/keyboard-561124_1280.jpg)
 
