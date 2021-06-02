@@ -8,7 +8,7 @@ Luroalfa es un repositorio ✨ especial ✨ en el que he estado trabajando con e
 #### Aqui algo de información sobre mí:
 
 - 🔭 Actualmente estoy trabajando en React_js.
-- 🌱 Como tambien estoy actualmente aprendiendo SSAS -->😉(procesador de css)
+- 🌱 Como también estoy actualmente aprendiendo SSAS -->😉(procesador de css)
 - 💬 Pregúntame sobre JavaScript, CSS, Html.
 - 📫 Cómo contactarme: rodriguezfallasluis@gmail.com.
 - 😄 Pronombres: Lucho.
