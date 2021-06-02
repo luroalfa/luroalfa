@@ -1,5 +1,5 @@
 ### Hola,👋 mi nombre es:
-# Luis Alfonso Rodriguez Fallas
+# Luis Alfonso Rodríguez Fallas
 
 Luroalfa es un repositorio ✨ especial ✨ en el que he estado trabajando con esfuerzo y dedicación para tener un proyecto personal.
 
