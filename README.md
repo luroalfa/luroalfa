@@ -1,15 +1,15 @@
-### Hi,👋 my name is:
+### Hola,👋 mi nombre es:
 # Luis Alfonso Rodriguez Fallas
 
-Luroalfa is a ✨ special ✨ repository in which I have been working with effort and dedication to have a personal project.
+Luroalfa es un repositorio ✨ especial ✨ en el que he estado trabajando con esfuerzo y dedicación para tener un proyecto personal.
 
 ![](https://cdn.pixabay.com/photo/2014/12/08/16/44/keyboard-561124_1280.jpg)
 
-#### Here some information about me:
+#### Aqui algo de información sobre mí:
 
-- 🔭 I am currently working on React_js.
-- 🌱 I am currently learning React-Native.
-- 💬 Ask me about React, JavaScript, CSS, Html.
-- 📫 How to contact me: rodriguezfallasluis@gmail.com.
-- 😄 Pronouns: Lucho.
-- ⚡ Fun fact: I like music and sport.
+- 🔭 Actualmente estoy trabajando en React_js.
+- 🌱 Actualmente estoy aprendiendo SSAS.
+- 💬 Pregúntame sobre JavaScript, CSS, Html.
+- 📫 Cómo contactarme: rodriguezfallasluis@gmail.com.
+- 😄 Pronombres: Lucho.
+- ⚡ Dato curioso: me gusta la música y el deporte.
