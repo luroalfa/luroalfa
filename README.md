@@ -2,8 +2,8 @@
 # Luis Alfonso Rodríguez Fallas
 
 Luroalfa es un repositorio ✨ especial ✨ en el que he estado trabajando con esfuerzo y dedicación para tener un proyecto personal.
-
-![](https://www.pexels.com/es-es/video/persona-escribiendo-946146/)
+[![Alternate Text]({image-url})]({https://www.pexels.com/es-es/video/persona-escribiendo-946146/} "Link Title")
+![]()
 
 #### Aqui algo de información sobre mí:
 
