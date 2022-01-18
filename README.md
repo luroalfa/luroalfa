@@ -3,7 +3,7 @@
 
 Luroalfa es un repositorio ✨ especial ✨ en el que he estado trabajando con esfuerzo y dedicación para tener un proyecto personal.
 [![Alternate Text]({image-url})]({https://www.pexels.com/es-es/video/persona-escribiendo-946146/} "Link Title")
-![]()
+![](https://images.pexels.com/photos/735911/pexels-photo-735911.jpeg)
 
 #### Aqui algo de información sobre mí:
 
