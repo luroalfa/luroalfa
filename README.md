@@ -2,8 +2,7 @@
 # Luis Alfonso Rodríguez Fallas
 
 Luroalfa es un repositorio ✨ especial ✨ en el que he estado trabajando con esfuerzo y dedicación para tener un proyecto personal.
-![](https://images.pexels.com/photos/51415/pexels-photo-51415.jpeg)
-![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![](https://images.pexels.com/photos/735911/pexels-photo-735911.jpeg)
 
 #### Aqui algo de información sobre mí:
 
