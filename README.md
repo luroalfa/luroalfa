@@ -2,7 +2,7 @@
 # Luis Alfonso Rodríguez Fallas
 
 Luroalfa is a repository ✨ special ✨ I'm work with dedication to have a personal project.
-![](http://localhost:3000/img/yovector.svg)
+![] (http://localhost:3000/img/yovector.svg)
 
 ### And here something information about me:
 
