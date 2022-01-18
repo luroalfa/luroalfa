@@ -3,7 +3,7 @@
 
 Luroalfa es un repositorio ✨ especial ✨ en el que he estado trabajando con esfuerzo y dedicación para tener un proyecto personal.
 
-![](https://rodriguezfallasluis.com/img/LUIS-CIRCLE.png)
+![](https://www.pexels.com/es-es/video/persona-escribiendo-946146/)
 
 #### Aqui algo de información sobre mí:
 
