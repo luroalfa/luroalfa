@@ -3,7 +3,7 @@
 
 Luroalfa is a repository ✨ special ✨ I'm work with dedication to have a personal project.
 ![] (http://localhost:3000/img/yovector.svg)
-![texto_alternativo](http://localhost:3000/img/yovector.svg){width=width height=height}
+![](http://localhost:3000/img/yovector.svg)
 
 ### And here something information about me:
 
