@@ -8,7 +8,7 @@ Luroalfa is a repository ✨ special ✨ I'm work with dedication to have a pers
 ### And here something information about me:
 
 - 🔭 Now i'm working in the framework of react.
-- 💬 Ask me about html, javascript, css, react js, photoshop, illustrator and other topics.
+- 💬 Ask me about html, javascript, css, react js, photoshop, illustrator an figma. 
 - 📫 How to contact me: rodriguezfallasluis@gmail.com.
 - ⚡ Curious fact: i like the music and sport.
 - [My official page](https://rodriguezfallasluis.com)
