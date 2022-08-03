@@ -3,7 +3,7 @@
 
 Luroalfa is a repository ✨ special ✨ I'm work with dedication to have a personal project.
 
-![Image](https://images.pexels.com/photos/1714205/pexels-photo-1714205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+![Image](https://rodriguezfallasluis.com/static/media/Yo-vector.bb05f8cef02c16732e64.webp)
 
 ### And here something information about me:
 
