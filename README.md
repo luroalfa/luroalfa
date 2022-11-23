@@ -3,7 +3,7 @@
 
 Luroalfa is a repository ✨ special ✨ I'm work with dedication to have a personal project.
 
-![Image]([https://raw.githubusercontent.com/luroalfa/perfil/886225baba43dc234aa0243025597ace3bff320c/bitmap.svg?token=APYLWGBURNZNBDQXCKKCX5DDP2VUO](https://github.com/luroalfa/perfil/blob/main/bitmap.png))
+![Image](https://github.com/luroalfa/perfil/blob/main/bitmap.png)
 
 ### And here something information about me:
 
