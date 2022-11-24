@@ -31,9 +31,37 @@ I currently work on the Linux operating system with the ubuntu distro.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![GitKraken Badge](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=fff&style=flat)
+
+### BackEnd
+![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat)
+![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=flat)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+
+### FrontEnd
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
+![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat)
+
+### OS
+![Linux Mint Badge](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff&style=flat)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
+
+### Others
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![GIMP Badge](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=flat)
+![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat)
+![Inkscape Badge](https://img.shields.io/badge/Inkscape-000?logo=inkscape&logoColor=fff&style=flat)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
+![Asana Badge](https://img.shields.io/badge/Asana-273347?logo=asana&logoColor=fff&style=flat)
+![Audacity Badge](https://img.shields.io/badge/Audacity-00C?logo=audacity&logoColor=fff&style=flat)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![OBS Studio Badge](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=fff&style=flat)
 
 
 
