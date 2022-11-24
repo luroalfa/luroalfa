@@ -17,5 +17,5 @@ I currently work on the Linux operating system with the ubuntu distro.
 - 🔭 Now I'm working in the framework of react.
 - 💬 Ask me about html, javascript, css, react js, photoshop, illustrator an figma. 
 - 📫 How to contact me: rodriguezfallasluis@gmail.com.
-- ⚡ Curious fact: i like the music and sport.
+- ⚡ Curious fact: I like the music and sport.
 - [My official page](https://rodriguezfallasluis.com)
