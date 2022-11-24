@@ -70,6 +70,7 @@ I currently work on the Linux operating system with the ubuntu distro.
 ![Asana Badge](https://img.shields.io/badge/Asana-273347?logo=asana&logoColor=fff&style=flat)
 ![Audacity Badge](https://img.shields.io/badge/Audacity-00C?logo=audacity&logoColor=fff&style=flat)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
 ![OBS Studio Badge](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=fff&style=flat)
 
 
