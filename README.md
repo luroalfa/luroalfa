@@ -73,8 +73,6 @@ I currently work on the Linux operating system with the ubuntu distro.
 ![OBS Studio Badge](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=fff&style=flat)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luroalfa&show_icons=true&theme=dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luroalfa)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luroalfa&hide=contribs,prs)
 
