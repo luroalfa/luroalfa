@@ -74,7 +74,7 @@ I currently work on the Linux operating system with the ubuntu distro.
 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luroalfa)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luroalfa&hide=contribs,prs)
 
