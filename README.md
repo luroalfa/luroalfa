@@ -10,7 +10,6 @@ Luroalfa is a repository ✨ special ✨ I work with dedication on this personal
 I currently work on the Linux operating system with the ubuntu distro.
 
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 
 ### And here something information about me:
 
@@ -51,6 +50,7 @@ I currently work on the Linux operating system with the ubuntu distro.
 ![Linux Mint Badge](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 
 ### Others
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
@@ -58,6 +58,8 @@ I currently work on the Linux operating system with the ubuntu distro.
 ![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat)
 ![Inkscape Badge](https://img.shields.io/badge/Inkscape-000?logo=inkscape&logoColor=fff&style=flat)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
+
+
 ![Asana Badge](https://img.shields.io/badge/Asana-273347?logo=asana&logoColor=fff&style=flat)
 ![Audacity Badge](https://img.shields.io/badge/Audacity-00C?logo=audacity&logoColor=fff&style=flat)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
