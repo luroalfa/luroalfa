@@ -1,9 +1,6 @@
-## Hi there,👋 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=2500&pause=100&color=FFFFFF&multiline=true&width=435&height=100&lines=Hi+there%2C%F0%9F%91%8B;My+name+is%3A;Luis+Alfonso+Rodr%C3%ADguez+Fallas" alt="Typing SVG" /></a>
 
 ![Image](https://github.com/luroalfa/perfil/blob/main/bitmap.png)
-
-My name is:
-# Luis Alfonso Rodríguez Fallas
 
 Luroalfa is a repository ✨ special ✨ I work with dedication on this personal project that 🚧 is under construction. 🚧
 
