@@ -2,7 +2,8 @@
 
 ![Image](https://github.com/luroalfa/perfil/blob/main/bitmap.png)
 
-Luroalfa is a repository ✨ special ✨ I work with dedication on this personal project that 🚧 is under construction. 🚧
+✨ Welcome to my personal space on GitHub! ✨
+**Luroalfa** is a personal project still under construction 🚧 but full of potential.
 
 I currently work on the Linux operating system with the ubuntu distro.
 
