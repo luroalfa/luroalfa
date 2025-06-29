@@ -3,19 +3,16 @@
 ![Image](https://github.com/luroalfa/perfil/blob/main/bitmap.png)
 
 ✨ Welcome to my personal space on GitHub! ✨
+
 **Luroalfa** is a personal project still under construction 🚧 but full of potential.
-
-I currently work on the Linux operating system with the ubuntu distro.
-
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
 
 ### And here something information about me:
 
-- 🔭 Now I'm working in the framework of react.
-- 💬 Ask me about html, javascript, css, react js, photoshop, illustrator an figma. 
-- 📫 How to contact me: rodriguezfallasluis@gmail.com.
-- ⚡ Curious fact: I like the music 🎧 and sport. 🛼🥋🥊🏋️‍♂️🏊‍♀️♟
-- [My official page](https://rodriguezfallasluis.com)
+- 💻 Passionate about building full-stack applications with **React.js** and **Golang**.
+- 💬 Skilled in HTML, CSS, JavaScript, React, Go, Figma, Photoshop, and Illustrator.
+- 📫 Contact: [rodriguezfallasluis@gmail.com](mailto:rodriguezfallasluis@gmail.com)
+- ⚡ Fun fact: I love music 🎧 and sports 🛼🥋🏋️‍♂️🏊‍♀️♟
+- 🌐 [Visit my site](https://rodriguezfallasluis.com)
 
 🖥 Web Developer. 🇨🇷 Living in Costa Rica 🇨🇷
 
