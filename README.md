@@ -2,73 +2,43 @@
 
 ![Image](https://github.com/luroalfa/perfil/blob/main/bitmap.png)
 
-✨ Welcome to my personal space on GitHub! ✨
+---
 
-**Luroalfa** is a personal project still under construction 🚧 but full of potential.
+### ✨ Welcome to my GitHub profile!
 
-### And here something information about me:
+I'm a fullstack developer from Costa Rica 🇨🇷 with a passion for building reliable and scalable systems. I specialize in backend services, software architecture, and delivering production-ready solutions.
 
-- 💻 Passionate about building full-stack applications with **React.js** and **Golang**.
-- 💬 Skilled in HTML, CSS, JavaScript, React, Go, Figma, Photoshop, and Illustrator.
-- 📫 Contact: [rodriguezfallasluis@gmail.com](mailto:rodriguezfallasluis@gmail.com)
-- ⚡ Fun fact: I love music 🎧 and sports 🛼🥋🏋️‍♂️🏊‍♀️♟
-- 🌐 [Visit my site](https://rodriguezfallasluis.com)
+---
 
-🖥 Web Developer. 🇨🇷 Living in Costa Rica 🇨🇷
+### 🚀 Tech Stack
 
-## Programming languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat)
+- **Frontend:** React.js  
+  🧪 Exploring: Next.js
 
+- **Backend:** Node.js, Golang
 
-### DVCS
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-![GitKraken Badge](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=fff&style=flat)
+- **Database:** PostgreSQL
 
-### FrontEnd
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
-![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=flat)
+- **Architecture:** Microservices, Clean Architecture
 
+- **Tools & Infrastructure:** Docker, Git
 
-![Ant Design Badge](https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=fff&style=flat)
-![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat)
-![styled-components Badge](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+---
 
-### BackEnd
-![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white&style=flat)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=flat)
-![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white&style=flat)
+### 🛠 Real-World Implementations
 
+- 🗺️ **Interactive Map Systems:** Developed logistics dashboards using **Mapbox** to display real-time location and traceability of field work, including interventions on poles and physical structures.
 
-### Database
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
+- 🔔 **Push Notification Services:** Implemented the **Web Push API** with **Service Workers** to deliver real-time alerts to users.
 
-### OS
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
+- 📦 **Microservice Architecture:** Designed and implemented a billing microservice integrated with **GTI** (Costa Rica tax provider) and automated **Slack** notifications for organization-specific events.
 
-### Others
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![GIMP Badge](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=flat)
-![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat)
-![Inkscape Badge](https://img.shields.io/badge/Inkscape-000?logo=inkscape&logoColor=fff&style=flat)
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
+- 🔐 **Multi-Role Authentication Systems:** Developed authentication flows using **JWT**, dynamic role selection, and recently added **2FA** to enhance system security.
 
+- 🧪 **Testing & QA:** Built end-to-end (**E2E**) automated tests with **Playwright**, focusing on validating middlewares, critical routes, and complete functional flows.
 
-![Asana Badge](https://img.shields.io/badge/Asana-273347?logo=asana&logoColor=fff&style=flat)
-![Audacity Badge](https://img.shields.io/badge/Audacity-00C?logo=audacity&logoColor=fff&style=flat)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
-![OBS Studio Badge](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=fff&style=flat)
+---
 
+### 📫 Contact
 
+- Email: [rodriguezfallasluis@gmail.com](mailto:rodriguezfallasluis@gmail.com)
