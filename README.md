@@ -21,9 +21,9 @@ I'm a fullstack developer from Costa Rica 🇨🇷 with a passion for building r
 
 - **Architecture:** Monolith, Microservices, Clean Architecture
 
-- **Infrastructure:** AWS
+- **Infrastructure:** AWS, Docker
 
-- **Tools & Infrastructure:** Docker, Git
+- **Tools:** Git
 
 ---
 
