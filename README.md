@@ -6,7 +6,7 @@
 
 ### ✨ Welcome to my GitHub profile!
 
-I'm a fullstack developer from Costa Rica 🇨🇷 with a passion for building reliable and scalable systems. I specialize in backend services, software architecture, and delivering production-ready solutions.
+I'm a Software Engineer from Costa Rica 🇨🇷 with a passion for building reliable and scalable systems. I specialize in backend services, software architecture, and delivering production-ready solutions.
 
 ---
 
