@@ -40,6 +40,15 @@ I'm a Software Engineer from Costa Rica 🇨🇷 with a passion for building rel
 - 🧪 **Testing & QA:** Built end-to-end (**E2E**) automated tests with **Playwright**, focusing on validating middlewares, critical routes, and complete functional flows.
 
 ---
+### Projects
+
+Move0n is a corporate transportation platform that connects companies with reliable mobility services, optimizing route management, reservations, and real-time traceability.
+<a href="https://www.move0n.com/">Move0n</a>
+
+Synapse is a field service and work-order platform that helps businesses manage inventory, assign technicians in real time, automate payments, and ensure secure operations with MFA and data encryption.
+<a href="https://www.syn4pse.com/">Syn4pse</a>
+
+---
 
 ### 📫 Contact
 
