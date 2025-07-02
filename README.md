@@ -15,17 +15,19 @@ I'm a fullstack developer from Costa Rica 🇨🇷 with a passion for building r
 - **Frontend:** React.js  
   🧪 Exploring: Next.js
 
-- **Backend:** Node.js, Golang
+- **Backend:** Node.js, Golang, Python
 
 - **Database:** PostgreSQL
 
 - **Architecture:** Microservices, Clean Architecture
 
+- **Infrastructure:** AWS
+
 - **Tools & Infrastructure:** Docker, Git
 
 ---
 
-### 🛠 Real-World Implementations
+### 🛠 Achievements
 
 - 🗺️ **Interactive Map Systems:** Developed logistics dashboards using **Mapbox** to display real-time location and traceability of field work, including interventions on poles and physical structures.
 
