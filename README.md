@@ -19,7 +19,7 @@ I'm a fullstack developer from Costa Rica 🇨🇷 with a passion for building r
 
 - **Database:** PostgreSQL
 
-- **Architecture:** Microservices, Clean Architecture
+- **Architecture:** Monolith, Microservices, Clean Architecture
 
 - **Infrastructure:** AWS
 
